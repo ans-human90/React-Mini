@@ -1,1 +1,1 @@
-# React-Mini
+# React-Mini App as a Template
